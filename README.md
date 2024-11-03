@@ -1,7 +1,5 @@
 <div align="center">
   
-<img src="https://i.pinimg.com/1200x/04/d8/c5/04d8c5e78fc791cf88c5f7e534688040.jpg" alt="Sigenwinnie HELLOO!!" width=300 hight=300 >
-
 ***Hellooo!!***
 ---
 
